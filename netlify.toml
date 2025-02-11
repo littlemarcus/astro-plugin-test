@@ -1,0 +1,4 @@
+[build]
+
+[[plugins]]
+package = "/plugins/netlify-plugin-addAuth"
